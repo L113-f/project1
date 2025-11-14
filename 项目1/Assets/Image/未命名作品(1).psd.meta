@@ -87,7 +87,7 @@ ScriptedImporter:
       y: 0
       width: 0
       height: 0
-    spriteID: a3b65d9520d327846b5f130f801510dd
+    spriteID: 
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -110,7 +110,7 @@ ScriptedImporter:
       y: 550
       width: 103
       height: 161
-    spriteID: 8c268446d3521fc4f8d1a0e9f015b6a8
+    spriteID: c81f2944ecb725d498a1e9278c799341
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -131,7 +131,7 @@ ScriptedImporter:
       y: 4
       width: 371
       height: 538
-    spriteID: 0b3022290deea6d41aa9b566297207fd
+    spriteID: fd15136c6ce120e47b58cf50cef98079
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,8 +141,71 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: -93, y: -27}
     spritePosition: {x: 97, y: 31}
-  spriteImportData: []
-  rigSpriteImportData: []
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  rigSpriteImportData:
+  - name: "\u56FE\u5C42 2"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 550
+      width: 103
+      height: 161
+    spriteID: c81f2944ecb725d498a1e9278c799341
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -434, y: 96}
+    spritePosition: {x: 438, y: 454}
+  - name: "\u56FE\u5C42 1"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 371
+      height: 538
+    spriteID: fd15136c6ce120e47b58cf50cef98079
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -93, y: -27}
+    spritePosition: {x: 97, y: 31}
   sharedRigSpriteImportData: []
   mosaicSpriteImportData: []
   sharedRigCharacterData:
@@ -184,7 +247,7 @@ ScriptedImporter:
     spriteName: "\u56FE\u5C42 2"
     isGroup: 0
     parentIndex: -1
-    spriteID: 8c268446d3521fc4f8d1a0e9f015b6a8
+    spriteID: c81f2944ecb725d498a1e9278c799341
     layerID: 3
     mosaicPosition: {x: 4, y: 550}
     flatten: 0
@@ -194,7 +257,7 @@ ScriptedImporter:
     spriteName: "\u56FE\u5C42 1"
     isGroup: 0
     parentIndex: -1
-    spriteID: 0b3022290deea6d41aa9b566297207fd
+    spriteID: fd15136c6ce120e47b58cf50cef98079
     layerID: 2
     mosaicPosition: {x: 4, y: 4}
     flatten: 0
@@ -204,14 +267,44 @@ ScriptedImporter:
     spriteName: 
     isGroup: 0
     parentIndex: -1
-    spriteID: 6ac4288c40b35304cbd7e06715eb2416
+    spriteID: cfe09c1d9cff3d6489788b97dbb3cd40
     layerID: 1
     mosaicPosition: {x: 0, y: 0}
     flatten: 0
     isImported: 0
     isVisible: 0
   mosaicPSDLayers: []
-  rigPSDLayers: []
+  rigPSDLayers:
+  - name: "\u56FE\u5C42 2"
+    spriteName: "\u56FE\u5C42 2"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c81f2944ecb725d498a1e9278c799341
+    layerID: 3
+    mosaicPosition: {x: 4, y: 550}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "\u56FE\u5C42 1"
+    spriteName: "\u56FE\u5C42 1"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fd15136c6ce120e47b58cf50cef98079
+    layerID: 2
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "\u80CC\u666F"
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: cfe09c1d9cff3d6489788b97dbb3cd40
+    layerID: 1
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
   sharedRigPSDLayers: []
   importFileNodeState: 1
   platformSettingsDirtyTick: 0
